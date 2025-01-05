@@ -1,5 +1,5 @@
 # VizExperts
-Here’s the complete README file for your project, formatted for easy copy-paste:
+
 
 ```markdown
 
