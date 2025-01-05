@@ -76,4 +76,3 @@ Feel free to fork this project, make changes, and create pull requests. Contribu
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-You can copy and paste this directly into your README file. Make sure to replace the `your-username` placeholder with your actual GitHub username.
